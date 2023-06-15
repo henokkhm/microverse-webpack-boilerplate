@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/henokkhm/microverse-webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/henokkhm/microverse-webpack-boilerplate#readme"
+  "homepage": "https://github.com/henokkhm/microverse-webpack-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^5.87.0",
+    "webpack-cli": "^5.1.4"
+  }
 }
