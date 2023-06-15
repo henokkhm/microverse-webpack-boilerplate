@@ -4,6 +4,7 @@
   "description": "a Webpack template which can be used as a starting point for Microverse projects",
   "main": "index.js",
   "scripts": {
+    "lint": "hint .",
     "build": "webpack",
     "dev": "webpack serve --open"
   },
@@ -25,6 +26,7 @@
   "homepage": "https://github.com/henokkhm/microverse-webpack-boilerplate#readme",
   "devDependencies": {
     "css-loader": "^6.8.1",
+    "hint": "^7.1.9",
     "html-webpack-plugin": "^5.5.3",
     "style-loader": "^3.3.3",
     "webpack": "^5.87.0",
