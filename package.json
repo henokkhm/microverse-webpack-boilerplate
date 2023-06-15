@@ -1,0 +1,25 @@
+{
+  "name": "webpack-template",
+  "version": "1.0.0",
+  "description": "a Webpack template which can be used as a starting point for Microverse projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henokkhm/microverse-webpack-boilerplate.git"
+  },
+  "keywords": [
+    "webpack",
+    "boilerplate",
+    "template",
+    "microverse"
+  ],
+  "author": "Henok Kirubel Hailemariam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henokkhm/microverse-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/henokkhm/microverse-webpack-boilerplate#readme"
+}
